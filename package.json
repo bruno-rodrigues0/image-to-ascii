@@ -1,14 +1,24 @@
 {
   "name": "image-to-ascii",
   "version": "1.0.0",
-  "description": "",
+  "description": "conversor de imagem para ascii",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno-rodrigues0/image-to-ascii.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bruno-rodrigues0/image-to-ascii/issues"
+  },
+  "homepage": "https://github.com/bruno-rodrigues0/image-to-ascii#readme",
   "dependencies": {
-    "image-to-ascii": "^3.2.0"
+    "asciify-image": "^0.1.10"
   }
 }
